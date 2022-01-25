@@ -43,6 +43,6 @@ parameters :
         short-hint : |
             Enter e-value cutt off (default 0.001).
 
-    description : |
+description : |
     <p>This method will find the minimal cynthetic community retaining the as much function as possible from the provided metagenome.</p>
     
